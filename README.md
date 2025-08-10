@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Offensive+Security+Engineer;AI+Automation+Builder;Python%2C+Bash%2C+Flutter+Lover;Always+Learning%2C+Always+Breaking" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:tu.email@dominio.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://pablodev.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=about.me&style=for-the-badge" /></a>
@@ -51,15 +55,6 @@
 - 💰 `QuickTrack` → Personal finance Flutter app with widget, statistics, and data backup  
 - 🛡️ `ADLab Audit` → Full Red Team audit on Active Directory (Final Master's Project + professional report)  
 - 🤖 `AI Test Case Generator` → OCR-powered tool to auto-generate test cases from mobile app designs
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Offensive+Security+Engineer;AI+Automation+Builder;Python%2C+Bash%2C+Flutter+Lover;Always+Learning%2C+Always+Breaking" />
-</p>
-
 
 ---
 
