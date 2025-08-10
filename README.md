@@ -56,15 +56,9 @@
 
 ### 📊 GitHub Stats
 
-### 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Offensive+Security+Engineer;AI+Automation+Builder;Python%2C+Bash%2C+Flutter+Lover;Always+Learning%2C+Always+Breaking" />
+</p>
 
 
 ---
