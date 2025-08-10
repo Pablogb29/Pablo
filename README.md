@@ -47,19 +47,22 @@
 
 ### 📈 Current Projects
 
-- 🧠 `TradeBotAlert` → Bot de alertas con patrones de velas + suscripción Stripe  
-- 💰 `QuickTrack` → App Flutter de finanzas personales con widget, estadísticas y backup  
-- 🛡️ `ADLab Audit` → Red Team completo contra Directorio Activo (TFM + informe profesional)  
-- 🤖 `AI Test Case Generator` → OCR para generar test de validación en apps móviles
+- 🧠 `TradeBotAlert` → Candle pattern alert bot with Stripe-based subscriptions  
+- 💰 `QuickTrack` → Personal finance Flutter app with widget, statistics, and data backup  
+- 🛡️ `ADLab Audit` → Full Red Team audit on Active Directory (Final Master's Project + professional report)  
+- 🤖 `AI Test Case Generator` → OCR-powered tool to auto-generate test cases from mobile app designs
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=radical" width="48%" />
+  <img src="https://github.com/Pablogb29/Pablogb29/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablogb29&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pablogb29&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+
 
 ---
 
