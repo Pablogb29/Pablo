@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:tu.email@dominio.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://pablodev.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=about.me&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/pabloinfosec" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:pabloinfosec@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://pabloinfosec.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=about.me&style=for-the-badge" /></a>
 </p>
 
 ---
