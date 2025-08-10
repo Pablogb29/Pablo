@@ -56,11 +56,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github.com/Pablogb29/Pablogb29/blob/output/github-contribution-grid-snake.svg" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablogb29&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pablogb29&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+### 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 
 
 
