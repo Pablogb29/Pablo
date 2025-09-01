@@ -28,25 +28,30 @@
 
 ### 🔧 Tech Stack
 
-#### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-0175C2?logo=dart&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-0175C2?logo=dart&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-2E3440?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-2E3440?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2E3440?logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-2E3440?logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2E3440?logo=powershell&logoColor=white)
 
-#### ⚙️ Tools & Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-472AFA?logo=appium&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-5e57a5?logo=metasploit&logoColor=white)
+### 🛠️ Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-2E3440?logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2E3440?logo=tensorflow&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-2E3440?logo=appium&logoColor=white)
 
-#### ☁️ Platforms & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+### 🔒 Cybersecurity & Pentesting
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2E3440?logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E3440?logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-2E3440?logo=burpsuite&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-2E3440?logo=frida&logoColor=white)
+
+### ☁️ Platforms & DevOps
+![Linux](https://img.shields.io/badge/Linux-2E3440?logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2E3440?logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-2E3440?logo=firebase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2E3440?logo=github-actions&logoColor=white)
 
 ---
 
