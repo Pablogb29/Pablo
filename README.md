@@ -45,7 +45,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2E3440?logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2E3440?logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-2E3440?logo=burpsuite&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-2E3440?logo=frida&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-2E3440?logo=neo4j&logoColor=white)
 
 ### ☁️ Platforms & DevOps
 ![Linux](https://img.shields.io/badge/Linux-2E3440?logo=linux&logoColor=white)
