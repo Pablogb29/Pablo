@@ -30,7 +30,8 @@
 
 #### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-0175C2?logo=dart&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-0175C2?logo=dart&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
