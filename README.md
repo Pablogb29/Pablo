@@ -66,11 +66,8 @@
 
 ### 💡 Goals for 2025
 
-- 🚩 OSCP Certified  
-- ☁️ Deploy AI and Trading apps at scale  
-- 📱 Launch full apps on Play Store and App Store  
-- 🧑‍💼 Start monetizing personal projects  
-- 🏔️ Relocate to Switzerland & work in cybersecurity
+- 🚩 Become certified in OSCP, CPTS or CJCA 
+- 🛠️ Work in cybersecurity
 
 ---
 
